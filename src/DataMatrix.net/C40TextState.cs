@@ -33,13 +33,9 @@ namespace DataMatrix.net
 {
     internal struct C40TextState
     {
-        #region Properties
-
         internal int Shift { get; set; }
 
         internal bool UpperShift { get; set; }
-
-        #endregion
 
     }
 }
